@@ -38,4 +38,5 @@ accuracy_score = classifier.evaluate(x=test_X,y=test_y)['accuracy']
 
 print('Accuracy : {0:f}'.format(accuracy_score))
 
-# Steps 200,Acc : 87.3%
+# Steps 200  , Acc : 87.3%
+# Steps 2000 , Acc - 93.7 %
