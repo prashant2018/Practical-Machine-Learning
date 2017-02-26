@@ -3,9 +3,9 @@
 Classification of handwritten digits implemented using tensorflow. tf.learn.contrib is used with DNNClassifier.
 
 ##Hidden Layers:
-####Layer 1 - 10
-####Layer 2 - 20
-####Layer 3 - 10
+Layer 1 - 10
+Layer 2 - 20
+Layer 3 - 10
 
 ##Accuracy :
 
