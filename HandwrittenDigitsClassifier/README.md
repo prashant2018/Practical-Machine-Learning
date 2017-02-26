@@ -4,7 +4,9 @@ Classification of handwritten digits implemented using tensorflow. tf.learn.cont
 
 ##Hidden Layers:
 Layer 1 - 10
+
 Layer 2 - 20
+
 Layer 3 - 10
 
 ##Accuracy :
